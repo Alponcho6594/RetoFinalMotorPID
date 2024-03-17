@@ -1,0 +1,3 @@
+[console_scripts]
+setpoint = signal_sent.setpoint:main
+

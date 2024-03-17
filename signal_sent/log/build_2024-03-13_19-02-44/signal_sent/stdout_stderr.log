@@ -1,0 +1,24 @@
+running egg_info
+writing build/signal_sent/signal_sent.egg-info/PKG-INFO
+writing dependency_links to build/signal_sent/signal_sent.egg-info/dependency_links.txt
+writing entry points to build/signal_sent/signal_sent.egg-info/entry_points.txt
+writing requirements to build/signal_sent/signal_sent.egg-info/requires.txt
+writing top-level names to build/signal_sent/signal_sent.egg-info/top_level.txt
+reading manifest file 'build/signal_sent/signal_sent.egg-info/SOURCES.txt'
+writing manifest file 'build/signal_sent/signal_sent.egg-info/SOURCES.txt'
+running build
+running build_py
+copying signal_sent/setpoint.py -> /home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/build/lib/signal_sent
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+copying /home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/build/lib/signal_sent/setpoint.py -> /home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages/signal_sent
+byte-compiling /home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages/signal_sent/setpoint.py to setpoint.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages/signal_sent-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/signal_sent/signal_sent.egg-info to /home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages/signal_sent-0.0.0-py3.10.egg-info
+running install_scripts
+Installing setpoint script to /home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/signal_sent
+writing list of installed files to '/home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/install.log'

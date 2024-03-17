@@ -1,0 +1,26 @@
+[0.613s] Invoking command in '/home/stephs/ros2_utilities_ws/src/signal_sent': PYTHONPATH=/home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/prefix_override:/home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/signal_sent build --build-base /home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/build install --record /home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/install.log --single-version-externally-managed
+[0.756s] running egg_info
+[0.756s] writing build/signal_sent/signal_sent.egg-info/PKG-INFO
+[0.756s] writing dependency_links to build/signal_sent/signal_sent.egg-info/dependency_links.txt
+[0.756s] writing entry points to build/signal_sent/signal_sent.egg-info/entry_points.txt
+[0.756s] writing requirements to build/signal_sent/signal_sent.egg-info/requires.txt
+[0.756s] writing top-level names to build/signal_sent/signal_sent.egg-info/top_level.txt
+[0.757s] reading manifest file 'build/signal_sent/signal_sent.egg-info/SOURCES.txt'
+[0.759s] writing manifest file 'build/signal_sent/signal_sent.egg-info/SOURCES.txt'
+[0.759s] running build
+[0.759s] running build_py
+[0.759s] copying signal_sent/setpoint.py -> /home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/build/lib/signal_sent
+[0.759s] running install
+[0.760s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.760s]   warnings.warn(
+[0.760s] running install_lib
+[0.761s] copying /home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/build/lib/signal_sent/setpoint.py -> /home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages/signal_sent
+[0.761s] byte-compiling /home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages/signal_sent/setpoint.py to setpoint.cpython-310.pyc
+[0.762s] running install_data
+[0.762s] running install_egg_info
+[0.763s] removing '/home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages/signal_sent-0.0.0-py3.10.egg-info' (and everything under it)
+[0.763s] Copying build/signal_sent/signal_sent.egg-info to /home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages/signal_sent-0.0.0-py3.10.egg-info
+[0.764s] running install_scripts
+[0.778s] Installing setpoint script to /home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/signal_sent
+[0.778s] writing list of installed files to '/home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/install.log'
+[0.793s] Invoked command in '/home/stephs/ros2_utilities_ws/src/signal_sent' returned '0': PYTHONPATH=/home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/prefix_override:/home/stephs/ros2_utilities_ws/src/signal_sent/install/signal_sent/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/signal_sent build --build-base /home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/build install --record /home/stephs/ros2_utilities_ws/src/signal_sent/build/signal_sent/install.log --single-version-externally-managed

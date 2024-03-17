@@ -1,0 +1,11 @@
+setpoint:
+  ros__parameters:
+    signal_type: 0
+    default:
+      amplitude : 0.5
+    square:
+      amplitude : 1.0
+    sawtooth:
+      amplitude : 1.0
+    constant:
+      amplitude : 0.5
